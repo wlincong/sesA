@@ -2,7 +2,7 @@
 
   A program for the analytic computations of solvent-accessible surface area and solvent-excluded surface area.
    
-   "sesa_linux.pdf" and "sesa_windows.pdf" are, respectively, the linux and windows instructions for usage and output. 
+   "sesa_linux.pdf" and "sesa_windows.pdf" are, respectively, the linux and windows instructions for instllation, usage and output. 
    
    "sesaV001.tar.gz" has the linux files including the binary
    
